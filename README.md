@@ -15,7 +15,11 @@ We are in full compliance with the FDA's Quality System Regulation (QSR), which 
 
 
 - **Design and Development Planning:** We have completed three prototype iterations: a demonstration prototype, an alpha prototype, and a limited batch production run of 15 devices. Each prototype underwent three test cycles, leading to iterative improvements in quality.
-  
+
+![Diagram of the system](https://github.com/chathuracns/Re-design-Human-Height-Measuring-as-a-Device-Focusing-on-US-FDA-Regulation/blob/main/Sketchers/MeasureUP%20png_1.jpg?raw=true)
+
+![Diagram of the system](https://github.com/chathuracns/Re-design-Human-Height-Measuring-as-a-Device-Focusing-on-US-FDA-Regulation/blob/main/Sketchers/MeasureUP%20png_5.jpg?raw=true)
+
 - **Design Input:** The design was primarily developed to meet UNICEF's height measurement requirements for children, targeting a precision of approximately 1mm. Initially, the device exhibited a precision of 3cm, and we are working towards further refinement to meet these precision standards.
   
 - **Design Output:** Documentation demonstrates that the design meets user requirements and regulatory criteria. We have documented improvements through three test cycles and various prototype stages.
